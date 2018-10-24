@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements LoginFragmentView
         btnCuloare.setOnClickListener(this);
         btnInviz.setOnClickListener(this);
         //getSupportFragmentManager().beginTransaction().add(R.id.fragment_container_login, LoginFragment.newInstance()).commit();
+
+
     }
 
     private void initViews() {
