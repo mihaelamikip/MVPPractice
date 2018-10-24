@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVPPractice</string>
+    <string name="sign_in">sign in</string>
+    <string name="username">username</string>
+    <string name="_123456">123456</string>
+    <string name="enter_email">You need to enter an email address!</string>
+    <string name="valid_email">You need to enter a valid email address!</string>
+    <string name="pass_length">Password must have minimum 6 characters!</string>
+    <string name="success_login">Successful login!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
